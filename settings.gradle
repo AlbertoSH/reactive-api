@@ -1,0 +1,5 @@
+rootProject.name = 'reactive-api'
+include 'api'
+include 'client'
+include 'data-model'
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="api_main" target="1.8" />
+      <module name="api_test" target="1.8" />
+      <module name="client_main" target="1.8" />
+      <module name="client_test" target="1.8" />
+      <module name="data-model_main" target="1.8" />
+      <module name="data-model_test" target="1.8" />
+      <module name="reactive-api_main" target="1.8" />
+      <module name="reactive-api_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

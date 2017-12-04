@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api.iml" filepath="$PROJECT_DIR$/.idea/modules/api.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api_main.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api_test.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client_main.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client_test.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data-model/data-model.iml" filepath="$PROJECT_DIR$/.idea/modules/data-model/data-model.iml" group="data-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data-model/data-model_main.iml" filepath="$PROJECT_DIR$/.idea/modules/data-model/data-model_main.iml" group="data-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data-model/data-model_test.iml" filepath="$PROJECT_DIR$/.idea/modules/data-model/data-model_test.iml" group="data-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactive-api.iml" filepath="$PROJECT_DIR$/.idea/modules/reactive-api.iml" />
+    </modules>
+  </component>
+</project>
